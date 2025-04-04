@@ -1,39 +1,103 @@
+# Приветствую! <img src="https://raw.githubusercontent.com/mlovz/mlovz/master/welcome.gif" alt="Welcome" width="60" height="60">
 
-## Hi there 👋, I'm Malik Polonkoev and I'm a Frontend-Developer.
+Я **Абдул-Малик Полонкоев**, Front-end разработчик с страстью к созданию эффективных и масштабируемых веб-приложений.
 
-<br />
+![Просмотры профиля](https://komarev.com/ghpvc/?username=mlovz&color=blue)
 
-## Connect with me:
+---
+<br/>
 
-<img align="left" alt=" | Telegram" width="40px" src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" />
-<img align="left" alt=" | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
-<img align="left" alt=" | VK" width="40px" src="https://img.icons8.com/color/48/000000/vk-circled.png" />
+## 🛠 Технологии и инструменты:
 
-<br />
-<br />
-<br />
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=yellow)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=blue)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=00FFFF)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux&logoColor=8A2BE2)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=blue)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=orange)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack&logoColor=blue)
 
-## Languages and Tools:
+---
+<br/>
 
-<img src="https://pnglogo.sgp1.digitaloceanspaces.com/l/javascript.svg" width="30"/>    <img src="https://pnglogo.sgp1.digitaloceanspaces.com/d/typescript-original.svg" width="30"/>
-<img src="https://img.icons8.com/?size=80&id=asWSSTBrDlTW&format=png" width="30"/>  <img src="https://img.icons8.com/?size=48&id=MWiBjkuHeMVq&format=png" width="34"/> 
-<img src="https://img.icons8.com/?size=80&id=3VGtaw5gCc8T&format=png" width="30"/>
-<img src="https://pics.freeicons.io/uploads/icons/png/9267873881551942642-512.png"  width="30"/> <img src="https://img.icons8.com/?size=48&id=gFw7X5Tbl3ss&format=png" width="30"/> 
-<img src="https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png" width="30"/>  <img src="https://avatars.mds.yandex.net/i?id=fe1a266e5e668140efbdd74b670e7dc1_l-12540073-images-thumbs&n=13" width="30"/>
-<img src="https://img.icons8.com/?size=80&id=Wln8Z3PcXanx&format=png" width="30"/>  <img src="https://img.icons8.com/?size=48&id=20906&format=png" width="30"/>
-<img src="https://img.icons8.com/?size=48&id=dJjTWMogzFzg&format=png" width="30"/>  <img src="https://pnglogo.sgp1.digitaloceanspaces.com/d/webpack-original.svg" width="30"/>
-<img src="https://img.icons8.com/?size=80&id=LhQ8M0RI4YLP&format=png" width="30"/>
+## 🌐 Связаться со мной:
 
-<br />
-<br />
-<details>
-  <summary>:fire: My Stats:</summary> 
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=polonkoevfront&show_icons=true&theme=dark"/>
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polonkoevfront&langs_count=8&layout=compact"/>
+[![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v5.png)](https://t.me/yakhya_mestoev/)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/yakhya_mestoev/)
+[![VK](https://img.icons8.com/color/48/000000/vk-circled.png)](https://vk.com/yakhya_mestoev/)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin-circled--v1.png)](https://www.linkedin.com/in/ваш-username/)
+[![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:ваш-email@example.com)
 
-</details>
+---
+<br/>
+
+## 🚀 Проекты:
+
+- [**Проект 1**](ссылка-на-проект-1) - Краткое описание проекта 1.
+- [**Проект 2**](ссылка-на-проект-2) - Краткое описание проекта 2.
+- [**Проект 3**](ссылка-на-проект-3) - Краткое описание проекта 3.
+
+---
+<br/>
+
+## 📈 Статистика GitHub:
+
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=polonkoevfront&show_icons=true&theme=dark)
+![Топ Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=polonkoevfront&langs_count=8&layout=compact&theme=dark)
+
+---
+<br/>
+
+## 🏆 Трофеи GitHub:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=polonkoevfront&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+<br/>
+
+## 📈 Активность
+
+[![Активность](https://github-readme-activity-graph.vercel.app/graph?username=polonkoevfront&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+---
+<br/>
 
+## ✍️ Последние статьи:
 
+<!-- BLOG-POST-LIST:START -->
+- [Статья 1](ссылка-на-статью-1)
+- [Статья 2](ссылка-на-статью-2)
+- [Статья 3](ссылка-на-статью-3)
+<!-- BLOG-POST-LIST:END -->
 
+---
+<br/>
+
+## Резюме
+---
+[![Resume](https://img.shields.io/badge/-Резюме-090909?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=red)](https://gifer.com/ru/gifs/%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82#google_vignette)
+
+---
+<br/>
+
+## 💼 Открыт для сотрудничества
+
+Я всегда открыт для интересных проектов и предложений о сотрудничестве. Не стесняйтесь связаться со мной!
+
+---
+<br/>
+
+## 📫 Контакты:
+
+- **Email:** [ваш-email@example.com](mailto:ваш-email@example.com)
+- **Телефон:** +7 (123) 456-78-90
+
+---
+
+*Спасибо за посещение моего профиля!*
+
+*Посетите мой [личный сайт](ссылка-на-сайт) для получения дополнительной информации.*
+
+---
