@@ -1,6 +1,6 @@
 # Приветствую! <img src="https://raw.githubusercontent.com/mlovz/mlovz/master/welcome.gif" alt="Welcome" width="60" height="60">
 
-Я **Абдул-Малик Полонкоев**, Front-end разработчик с страстью к созданию эффективных и масштабируемых веб-приложений.
+Я **Малик Полонкоев**, Front-end разработчик с страстью к созданию эффективных и масштабируемых веб-приложений.
 
 ![Просмотры профиля](https://komarev.com/ghpvc/?username=mlovz&color=blue)
 
