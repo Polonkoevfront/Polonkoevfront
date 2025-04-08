@@ -26,9 +26,9 @@
 
 ## 🌐 Связаться со мной:
 
-[![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v5.png)](https://t.me/yakhya_mestoev/)
-[![VK](https://img.icons8.com/color/48/000000/vk-circled.png)](https://vk.com/yakhya_mestoev/)
-[![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:ваш-email@example.com)
+[![Telegram](https://img.icons8.com/color/48/000000/telegram-app--v5.png)]()
+[![VK](https://img.icons8.com/color/48/000000/vk-circled.png)]()
+[![Email](https://img.icons8.com/color/48/000000/gmail-new.png)]()
 
 ---
 <br/>
