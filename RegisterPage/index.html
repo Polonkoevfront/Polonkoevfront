@@ -7,6 +7,24 @@
     <title>RegisterPage</title>
 </head>
 <body>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $('.password-control').on('click', function(e) {
+            e.preventDefault(); // предотвращаем переход по ссылке
+            var passwordInput = $('#input_item2');
+            if (passwordInput.attr('type') === 'password') {
+                passwordInput.attr('type', 'text');
+                $(this).addClass('view'); // добавляем класс для изменения иконки
+            } else {
+                passwordInput.attr('type', 'password');
+                $(this).removeClass('view'); // убираем класс для изменения иконки
+            }
+        });
+    });
+</script>
+    
     <div class="registerpage">
         <div class="container">
             <div class="register_body">
@@ -18,7 +36,10 @@
                     <h5 class="input_logo_txt">Email</h5>
                     <input class="input_item" type="email" placeholder="Your email">
                     <h5 class="input_logo_txt">Password</h5>
-                    <input class="input_item" type="password" placeholder="Password">
+                   <div class="password">
+                    <input id="input_item2" type="password" placeholder="Password" name="password">
+                    <a class="password-control" href="#"></a>
+                   </div>
                 </div>
 
                 <a class="privacy_txt" href="">
