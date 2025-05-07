@@ -37,7 +37,7 @@
 
 - [**Проект 1**](https://github.com/Polonkoevfront/Finsweet-project.git) - Краткое описание проекта 1.
 - [**Проект 2**](https://github.com/Polonkoevfront/Dananz-project.git) - Краткое описание проекта 2.
-- [**Проект 3**](ссылка-на-проект-3) - Краткое описание проекта 3.
+- [**Проект 3**](https://github.com/Polonkoevfront/Restoran-project.git) - Краткое описание проекта 3.
 
 ---
 <br/>
