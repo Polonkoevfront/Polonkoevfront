@@ -1,6 +1,7 @@
 # Приветствую! <img src="https://raw.githubusercontent.com/mlovz/mlovz/master/welcome.gif" alt="Welcome" width="60" height="60">
 
 Я **Малик Полонкоев**, Front-end разработчик с страстью к созданию эффективных и масштабируемых веб-приложений.
+Постоянно совершенствую свои знания, изучаю TypeScript и современные подходы к разработке. Ищу команду, где смогу расти и применять свои навыки на практике."
 
 ![Просмотры профиля](https://komarev.com/ghpvc/?username=mlovz&color=blue)
 
